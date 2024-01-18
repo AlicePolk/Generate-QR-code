@@ -1,2 +1,2 @@
 # Generate-QR-code
-C#生存二维码
+C#生成二维码
